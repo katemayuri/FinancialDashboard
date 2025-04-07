@@ -1,0 +1,2459 @@
+{
+  "name": "Creditors",
+  "children": [
+    {
+      "ledger_name": "ARIHANT STAR (HK) LTD",
+      "opening_balance": 0,
+      "closing_balance": 180432,
+      "transactions": [
+        {
+          "date": "16-Jan-2025",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "798",
+          "debit_amt": 0,
+          "credit_amt": 180432,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 003 2025 LP-P",
+          "type": ""
+        }
+      ],
+      "value": 180432
+    },
+    {
+      "ledger_name": "Aspeco HK Ltd.",
+      "opening_balance": 0,
+      "closing_balance": 337279.25,
+      "transactions": [
+        {
+          "date": "10-Sep-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "534",
+          "debit_amt": 0,
+          "credit_amt": 73517.69,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: SE/2401628 LP-P",
+          "type": ""
+        },
+        {
+          "date": "23-Sep-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "535",
+          "debit_amt": 0,
+          "credit_amt": 34510.67,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: SE/2401670 LP-P",
+          "type": ""
+        },
+        {
+          "date": "03-Oct-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "514",
+          "debit_amt": 0,
+          "credit_amt": 18594.37,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: SE/2401776 LP-P",
+          "type": ""
+        },
+        {
+          "date": "12-Oct-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "538",
+          "debit_amt": 0,
+          "credit_amt": 18549.78,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: SE/2401837 LP-P",
+          "type": ""
+        },
+        {
+          "date": "18-Oct-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "567",
+          "debit_amt": 0,
+          "credit_amt": 12316.5,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: SE/2401895 LP-P",
+          "type": ""
+        },
+        {
+          "date": "25-Oct-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "588",
+          "debit_amt": 0,
+          "credit_amt": 13993.3,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: SE/2401958 LP-P",
+          "type": ""
+        },
+        {
+          "date": "28-Oct-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "596",
+          "debit_amt": 0,
+          "credit_amt": 4892.46,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: SE/2401980 LP-P",
+          "type": ""
+        },
+        {
+          "date": "13-Nov-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "632",
+          "debit_amt": 0,
+          "credit_amt": 6664.9,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: SE/2402056 LP-P",
+          "type": ""
+        },
+        {
+          "date": "25-Nov-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "679",
+          "debit_amt": 0,
+          "credit_amt": 105392.22,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: SE/2402162 LP-P",
+          "type": ""
+        },
+        {
+          "date": "27-Nov-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "669",
+          "debit_amt": 0,
+          "credit_amt": 10983.06,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: SE/2402177 LP-P",
+          "type": ""
+        },
+        {
+          "date": "10-Dec-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "706",
+          "debit_amt": 0,
+          "credit_amt": 13925.22,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: SE/2402249 LP-P",
+          "type": ""
+        },
+        {
+          "date": "13-Jan-2025",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "785",
+          "debit_amt": 0,
+          "credit_amt": 3427.75,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: SE/2500066 LP-P",
+          "type": ""
+        },
+        {
+          "date": "22-Jan-2025",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "820",
+          "debit_amt": 0,
+          "credit_amt": 3045.22,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: SE/2500129 LP-P",
+          "type": ""
+        },
+        {
+          "date": "10-Feb-2025",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "865",
+          "debit_amt": 0,
+          "credit_amt": 745.92,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: SE/2500207 LP-P",
+          "type": ""
+        },
+        {
+          "date": "11-Feb-2025",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "868",
+          "debit_amt": 0,
+          "credit_amt": 623.92,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: SE/2500225 LP-P",
+          "type": ""
+        },
+        {
+          "date": "24-Feb-2025",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "898",
+          "debit_amt": 0,
+          "credit_amt": 7282.73,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: SE/2500305 LP-P",
+          "type": ""
+        },
+        {
+          "date": "25-Feb-2025",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "902",
+          "debit_amt": 0,
+          "credit_amt": 8813.54,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: SE/2500328 LP-P",
+          "type": ""
+        }
+      ],
+      "value": 337279.25
+    },
+    {
+      "ledger_name": "Aura Exim (HK) Ltd",
+      "opening_balance": 0,
+      "closing_balance": 13506.3,
+      "transactions": [
+        {
+          "date": "09-Jul-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "248",
+          "debit_amt": 0,
+          "credit_amt": 13506.3,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 0916 LP-P",
+          "type": ""
+        }
+      ],
+      "value": 13506.3
+    },
+    {
+      "ledger_name": "Beeni Impex Ltd.",
+      "opening_balance": 0,
+      "closing_balance": 4791.4,
+      "transactions": [
+        {
+          "date": "29-Oct-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "598",
+          "debit_amt": 0,
+          "credit_amt": 4653.9,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 17292 LP-P",
+          "type": ""
+        },
+        {
+          "date": "04-Dec-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "708",
+          "debit_amt": 0,
+          "credit_amt": 137.5,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 17332 LP-P",
+          "type": ""
+        }
+      ],
+      "value": 4791.4
+    },
+    {
+      "ledger_name": "Blue Moon Trading Company",
+      "opening_balance": 2840647.98,
+      "closing_balance": 1923385.98,
+      "transactions": [
+        {
+          "date": "14-Nov-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "649",
+          "debit_amt": 0,
+          "credit_amt": 300037,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 13884 LP-P",
+          "type": ""
+        },
+        {
+          "date": "22-Nov-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "650",
+          "debit_amt": 0,
+          "credit_amt": 312169,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 13885 LP-P",
+          "type": ""
+        },
+        {
+          "date": "27-Nov-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "691",
+          "debit_amt": 0,
+          "credit_amt": 305056,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 13887 LP-P",
+          "type": ""
+        }
+      ],
+      "value": 1923385.98
+    },
+    {
+      "ledger_name": "Brilliant Earth LLC",
+      "opening_balance": 8276.85,
+      "closing_balance": 50008.95,
+      "transactions": [
+        {
+          "date": "02-Apr-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "2",
+          "debit_amt": 0,
+          "credit_amt": 2788.45,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: 116710 IMP-P",
+          "type": ""
+        },
+        {
+          "date": "23-May-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "143",
+          "debit_amt": 0,
+          "credit_amt": 468.79,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: 2023121111 IMP-P",
+          "type": ""
+        },
+        {
+          "date": "04-Jun-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "170",
+          "debit_amt": 0,
+          "credit_amt": 1683.7,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: 2023121112 IMP-P",
+          "type": ""
+        },
+        {
+          "date": "01-Jul-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "219",
+          "debit_amt": 0,
+          "credit_amt": 6370.92,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: 2023121113 IMP-P",
+          "type": ""
+        },
+        {
+          "date": "16-Aug-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "393",
+          "debit_amt": 0,
+          "credit_amt": 888.64,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: 2023121114 IMP-P",
+          "type": ""
+        },
+        {
+          "date": "17-Sep-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "452",
+          "debit_amt": 0,
+          "credit_amt": 4415.12,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: 2023121115 IMP-P",
+          "type": ""
+        },
+        {
+          "date": "14-Oct-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "562",
+          "debit_amt": 0,
+          "credit_amt": 268.42,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: 2023121116 IMP-P",
+          "type": ""
+        },
+        {
+          "date": "26-Nov-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "680",
+          "debit_amt": 0,
+          "credit_amt": 19066.91,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: 2023121118 IMP-P",
+          "type": ""
+        },
+        {
+          "date": "24-Dec-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "732",
+          "debit_amt": 0,
+          "credit_amt": 2915.34,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: 2023121119 IMP-P",
+          "type": ""
+        },
+        {
+          "date": "03-Jan-2025",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "779",
+          "debit_amt": 0,
+          "credit_amt": 898.73,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: 2023121120 IMP-P",
+          "type": ""
+        },
+        {
+          "date": "17-Jan-2025",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "822",
+          "debit_amt": 0,
+          "credit_amt": 1274.56,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: 2023121121 IMP-P",
+          "type": ""
+        },
+        {
+          "date": "07-Feb-2025",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "874",
+          "debit_amt": 0,
+          "credit_amt": 692.52,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: 2023121122 IMP-P",
+          "type": ""
+        }
+      ],
+      "value": 50008.95
+    },
+    {
+      "ledger_name": "BRINK'S HONG KONG LTD",
+      "opening_balance": 3481.41,
+      "closing_balance": 3481.41,
+      "transactions": [],
+      "value": 3481.41
+    },
+    {
+      "ledger_name": "Brown Gems (HK) Ltd.",
+      "opening_balance": 0,
+      "closing_balance": 7909.2,
+      "transactions": [
+        {
+          "date": "31-Jul-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "336",
+          "debit_amt": 0,
+          "credit_amt": 232,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 7729 LP-P",
+          "type": ""
+        },
+        {
+          "date": "02-Dec-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "709",
+          "debit_amt": 0,
+          "credit_amt": 6003,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 7911 LP-P",
+          "type": ""
+        },
+        {
+          "date": "31-Dec-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "816",
+          "debit_amt": 0,
+          "credit_amt": 1674.2,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 7943 LP-P",
+          "type": ""
+        }
+      ],
+      "value": 7909.2
+    },
+    {
+      "ledger_name": "CP CREATIONS (HK) LTD.",
+      "opening_balance": 0,
+      "closing_balance": 7072.8,
+      "transactions": [
+        {
+          "date": "27-Sep-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "512",
+          "debit_amt": 0,
+          "credit_amt": 7072.8,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 1428 LP-P",
+          "type": ""
+        }
+      ],
+      "value": 7072.8
+    },
+    {
+      "ledger_name": "D & P Diamond (HK) Ltd.",
+      "opening_balance": 0,
+      "closing_balance": 1214.4,
+      "transactions": [
+        {
+          "date": "18-Sep-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "511",
+          "debit_amt": 0,
+          "credit_amt": 1214.4,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 2614 LP-P",
+          "type": ""
+        }
+      ],
+      "value": 1214.4
+    },
+    {
+      "ledger_name": "D.N.DIAMONDS (HK) LTD",
+      "opening_balance": 0,
+      "closing_balance": 7564.8,
+      "transactions": [
+        {
+          "date": "05-Dec-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "714",
+          "debit_amt": 0,
+          "credit_amt": 7564.8,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 16141 LP-P",
+          "type": ""
+        }
+      ],
+      "value": 7564.8
+    },
+    {
+      "ledger_name": "DHARAM CREATIONS (HK) LTD.",
+      "opening_balance": 0,
+      "closing_balance": 440959.74,
+      "transactions": [
+        {
+          "date": "24-Oct-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "574",
+          "debit_amt": 0,
+          "credit_amt": 13316.25,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: KK23-0451 LP-P",
+          "type": ""
+        },
+        {
+          "date": "02-Nov-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "608",
+          "debit_amt": 0,
+          "credit_amt": 7218.8,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 14546 LP-P",
+          "type": ""
+        },
+        {
+          "date": "19-Nov-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "713",
+          "debit_amt": 0,
+          "credit_amt": 473.55,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 16108 LP-P",
+          "type": ""
+        },
+        {
+          "date": "16-Dec-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "728",
+          "debit_amt": 0,
+          "credit_amt": 30727.88,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 16336 LP-P",
+          "type": ""
+        },
+        {
+          "date": "13-Jan-2025",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "784",
+          "debit_amt": 0,
+          "credit_amt": 10421.03,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 16509 LP-P",
+          "type": ""
+        },
+        {
+          "date": "24-Jan-2025",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "819",
+          "debit_amt": 0,
+          "credit_amt": 131029.12,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 16601 LP-P",
+          "type": ""
+        },
+        {
+          "date": "12-Feb-2025",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "870",
+          "debit_amt": 0,
+          "credit_amt": 2001.8,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 16726 LP-P",
+          "type": ""
+        },
+        {
+          "date": "24-Feb-2025",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "897",
+          "debit_amt": 0,
+          "credit_amt": 159481.93,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 16810 LP-P",
+          "type": ""
+        },
+        {
+          "date": "27-Feb-2025",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "905",
+          "debit_amt": 0,
+          "credit_amt": 86289.38,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 16863 LP-P",
+          "type": ""
+        }
+      ],
+      "value": 440959.74
+    },
+    {
+      "ledger_name": "DI Stefano Bruno",
+      "opening_balance": 29403.2,
+      "closing_balance": 29403.2,
+      "transactions": [],
+      "value": 29403.2
+    },
+    {
+      "ledger_name": "DIAMONDS AND DIAMONDS CORPORATION",
+      "opening_balance": 0,
+      "closing_balance": 228912.19,
+      "transactions": [
+        {
+          "date": "06-Aug-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "374",
+          "debit_amt": 0,
+          "credit_amt": 228912.19,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: T08062024 IMP-P",
+          "type": ""
+        }
+      ],
+      "value": 228912.19
+    },
+    {
+      "ledger_name": "DIANCO (HK) LTD",
+      "opening_balance": 0,
+      "closing_balance": 614.25,
+      "transactions": [
+        {
+          "date": "20-Jan-2025",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "813",
+          "debit_amt": 0,
+          "credit_amt": 614.25,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 16596 LP-P",
+          "type": ""
+        }
+      ],
+      "value": 614.25
+    },
+    {
+      "ledger_name": "Ever Glory International Limited",
+      "opening_balance": 0,
+      "closing_balance": 4097859.15,
+      "transactions": [
+        {
+          "date": "03-Apr-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "53",
+          "debit_amt": 0,
+          "credit_amt": 480425.23,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 1332 LP-P",
+          "type": ""
+        },
+        {
+          "date": "06-Apr-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "57",
+          "debit_amt": 0,
+          "credit_amt": 320425.6,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 1335 LP-P",
+          "type": ""
+        },
+        {
+          "date": "10-Apr-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "59",
+          "debit_amt": 0,
+          "credit_amt": 90120,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 1337 LP-P",
+          "type": ""
+        },
+        {
+          "date": "23-Apr-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "78",
+          "debit_amt": 0,
+          "credit_amt": 120300,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 1340 LP-P",
+          "type": ""
+        },
+        {
+          "date": "07-May-2024",
+          "party_name": "TO    BANK CHARGES",
+          "vno": "5",
+          "debit_amt": 0.23,
+          "credit_amt": 0,
+          "cheque_no": "",
+          "narration": " -- Payment. $ 480425 @ 7.8 Ag. Inv. 1332 CB-P",
+          "type": ""
+        },
+        {
+          "date": "07-May-2024",
+          "party_name": "TO    BOC USD C/A (012-791-2-002379-0)",
+          "vno": "5",
+          "debit_amt": 480425,
+          "credit_amt": 0,
+          "cheque_no": "",
+          "narration": "  Payment. $ 480425 @ 7.8 Ag. Inv. 1332 CB-P",
+          "type": ""
+        },
+        {
+          "date": "10-May-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "342",
+          "debit_amt": 0,
+          "credit_amt": 90828,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 1356 LP-P",
+          "type": ""
+        },
+        {
+          "date": "10-May-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "343",
+          "debit_amt": 0,
+          "credit_amt": 85140,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 1357 LP-P",
+          "type": ""
+        },
+        {
+          "date": "10-May-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "344",
+          "debit_amt": 0,
+          "credit_amt": 99852,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 1358 LP-P",
+          "type": ""
+        },
+        {
+          "date": "13-May-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "185",
+          "debit_amt": 0,
+          "credit_amt": 150350,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 1347 LP-P",
+          "type": ""
+        },
+        {
+          "date": "16-Jul-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "443",
+          "debit_amt": 0,
+          "credit_amt": 103092.5,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 1386 LP-P",
+          "type": ""
+        },
+        {
+          "date": "16-Jul-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "444",
+          "debit_amt": 0,
+          "credit_amt": 149887.5,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 1387 LP-P",
+          "type": ""
+        },
+        {
+          "date": "25-Jul-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "438",
+          "debit_amt": 0,
+          "credit_amt": 151722,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 1401 LP-P",
+          "type": ""
+        },
+        {
+          "date": "30-Jul-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "544",
+          "debit_amt": 0,
+          "credit_amt": 208520,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 1408 LP-P",
+          "type": ""
+        },
+        {
+          "date": "12-Aug-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "543",
+          "debit_amt": 0,
+          "credit_amt": 141945,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 1416 LP-P",
+          "type": ""
+        },
+        {
+          "date": "16-Aug-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "599",
+          "debit_amt": 0,
+          "credit_amt": 220508.25,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 1421 LP-P",
+          "type": ""
+        },
+        {
+          "date": "19-Aug-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "615",
+          "debit_amt": 0,
+          "credit_amt": 160633,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 1423 LP-P",
+          "type": ""
+        },
+        {
+          "date": "27-Aug-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "600",
+          "debit_amt": 0,
+          "credit_amt": 100325,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 1431 LP-P",
+          "type": ""
+        },
+        {
+          "date": "13-Sep-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "613",
+          "debit_amt": 0,
+          "credit_amt": 220380,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 1443 LP-P",
+          "type": ""
+        },
+        {
+          "date": "25-Sep-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "666",
+          "debit_amt": 0,
+          "credit_amt": 320561.8,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 1453 LP-P",
+          "type": ""
+        },
+        {
+          "date": "27-Sep-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "667",
+          "debit_amt": 0,
+          "credit_amt": 271473.5,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 1456 LP-P",
+          "type": ""
+        },
+        {
+          "date": "29-Oct-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "741",
+          "debit_amt": 0,
+          "credit_amt": 421325,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 1483 LP-P",
+          "type": ""
+        },
+        {
+          "date": "02-Nov-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "800",
+          "debit_amt": 0,
+          "credit_amt": 419850,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 1488 LP-P",
+          "type": ""
+        },
+        {
+          "date": "14-Nov-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "900",
+          "debit_amt": 0,
+          "credit_amt": 250620,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 1500 LP-P",
+          "type": ""
+        }
+      ],
+      "value": 4097859.15
+    },
+    {
+      "ledger_name": "FEDEX",
+      "opening_balance": 1089.67,
+      "closing_balance": 1089.67,
+      "transactions": [],
+      "value": 1089.67
+    },
+    {
+      "ledger_name": "FERRARI",
+      "opening_balance": 340,
+      "closing_balance": 340,
+      "transactions": [],
+      "value": 340
+    },
+    {
+      "ledger_name": "Fineese Impex Ltd",
+      "opening_balance": 0,
+      "closing_balance": 1123252.8,
+      "transactions": [
+        {
+          "date": "12-Nov-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "722",
+          "debit_amt": 0,
+          "credit_amt": 679611.89,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 1468 LP-P",
+          "type": ""
+        },
+        {
+          "date": "08-Jan-2025",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "740",
+          "debit_amt": 0,
+          "credit_amt": 443640.91,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 1497 LP-P",
+          "type": ""
+        }
+      ],
+      "value": 1123252.8
+    },
+    {
+      "ledger_name": "Hillier Diamond (Shanghai) Co Ltd",
+      "opening_balance": 0,
+      "closing_balance": 120798.02,
+      "transactions": [
+        {
+          "date": "03-Jun-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "313",
+          "debit_amt": 0,
+          "credit_amt": 120798.02,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: CK-001 IMP-P",
+          "type": ""
+        }
+      ],
+      "value": 120798.02
+    },
+    {
+      "ledger_name": "I DIAMONDS (ISR) LTD",
+      "opening_balance": 0,
+      "closing_balance": 6253.5,
+      "transactions": [
+        {
+          "date": "06-Dec-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "701",
+          "debit_amt": 0,
+          "credit_amt": 6253.5,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: 60263 IMP-P",
+          "type": ""
+        }
+      ],
+      "value": 6253.5
+    },
+    {
+      "ledger_name": "JEDI DIA TRADING LIMITED",
+      "opening_balance": 0,
+      "closing_balance": 5425,
+      "transactions": [
+        {
+          "date": "29-Nov-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "711",
+          "debit_amt": 0,
+          "credit_amt": 5425,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 8536 LP-P",
+          "type": ""
+        }
+      ],
+      "value": 5425
+    },
+    {
+      "ledger_name": "KAKA'S DIAM LTD",
+      "opening_balance": 0,
+      "closing_balance": 2449.5,
+      "transactions": [
+        {
+          "date": "21-Oct-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "564",
+          "debit_amt": 0,
+          "credit_amt": 2449.5,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 5023 LP-P",
+          "type": ""
+        }
+      ],
+      "value": 2449.5
+    },
+    {
+      "ledger_name": "Kapu Gems Ltd.",
+      "opening_balance": 0,
+      "closing_balance": 32957.86,
+      "transactions": [
+        {
+          "date": "20-Feb-2025",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "893",
+          "debit_amt": 0,
+          "credit_amt": 32957.86,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: DDA/1015/2024-2025 LP-P",
+          "type": ""
+        }
+      ],
+      "value": 32957.86
+    },
+    {
+      "ledger_name": "KGK DIAMOND DMCC",
+      "opening_balance": 0,
+      "closing_balance": 1592876.47,
+      "transactions": [
+        {
+          "date": "12-Sep-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "453",
+          "debit_amt": 0,
+          "credit_amt": 278067.18,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: KDD/P/733/2024-25 IMP-P",
+          "type": ""
+        },
+        {
+          "date": "16-Sep-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "500",
+          "debit_amt": 0,
+          "credit_amt": 65243.49,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: KDD/P/758/2024-25 IMP-P",
+          "type": ""
+        },
+        {
+          "date": "18-Sep-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "498",
+          "debit_amt": 0,
+          "credit_amt": 103877.73,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: KDD/P/770/2024-25 IMP-P",
+          "type": ""
+        },
+        {
+          "date": "01-Oct-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "519",
+          "debit_amt": 0,
+          "credit_amt": 29218.76,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: KDD/P/865/2024-25 IMP-P",
+          "type": ""
+        },
+        {
+          "date": "08-Oct-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "527",
+          "debit_amt": 0,
+          "credit_amt": 100453.01,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: KDD/P/912/2024-25 IMP-P",
+          "type": ""
+        },
+        {
+          "date": "15-Oct-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "546",
+          "debit_amt": 0,
+          "credit_amt": 25877.93,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: KDD/P/965/2024-25 IMP-P",
+          "type": ""
+        },
+        {
+          "date": "24-Oct-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "594",
+          "debit_amt": 0,
+          "credit_amt": 23600.82,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: KDD/P/1060/2024-25 IMP-P",
+          "type": ""
+        },
+        {
+          "date": "28-Oct-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "602",
+          "debit_amt": 0,
+          "credit_amt": 28491.08,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: KDD/P/1077/2024-25 IMP-P",
+          "type": ""
+        },
+        {
+          "date": "28-Oct-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "603",
+          "debit_amt": 0,
+          "credit_amt": 42709.11,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: KDD/P/1079/2024-25 IMP-P",
+          "type": ""
+        },
+        {
+          "date": "14-Nov-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "633",
+          "debit_amt": 0,
+          "credit_amt": 106751.44,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: KDD/P/1199/2024-25 IMP-P",
+          "type": ""
+        },
+        {
+          "date": "21-Nov-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "681",
+          "debit_amt": 0,
+          "credit_amt": 310335.79,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: KDD/P/1280/2024-25 IMP-P",
+          "type": ""
+        },
+        {
+          "date": "27-Nov-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "671",
+          "debit_amt": 0,
+          "credit_amt": 24362.4,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: KDD/P/1335/2024-25 IMP-P",
+          "type": ""
+        },
+        {
+          "date": "28-Nov-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "692",
+          "debit_amt": 0,
+          "credit_amt": 36025.85,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: KDD/P/1349/2024-25 IMP-P",
+          "type": ""
+        },
+        {
+          "date": "20-Dec-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "727",
+          "debit_amt": 0,
+          "credit_amt": 213999.8,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: KDD/P/1623/2024-25 IMP-P",
+          "type": ""
+        },
+        {
+          "date": "02-Jan-2025",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "736",
+          "debit_amt": 0,
+          "credit_amt": 56929.23,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: KDD/P/1741/2024-25 IMP-P",
+          "type": ""
+        },
+        {
+          "date": "21-Jan-2025",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "821",
+          "debit_amt": 0,
+          "credit_amt": 40822.64,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: KDD/P/1954/2024-25 IMP-P",
+          "type": ""
+        },
+        {
+          "date": "19-Feb-2025",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "895",
+          "debit_amt": 0,
+          "credit_amt": 69669.06,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: KDD/P/2271/2024-25 IMP-P",
+          "type": ""
+        },
+        {
+          "date": "25-Feb-2025",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "904",
+          "debit_amt": 0,
+          "credit_amt": 36441.15,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: KDD/P/2331/2024-25 IMP-P",
+          "type": ""
+        }
+      ],
+      "value": 1592876.47
+    },
+    {
+      "ledger_name": "KGK Diamonds (HK) Ltd.",
+      "opening_balance": 0,
+      "closing_balance": 20019.75,
+      "transactions": [
+        {
+          "date": "23-May-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "140",
+          "debit_amt": 0,
+          "credit_amt": 16426,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 64530 LP-P",
+          "type": ""
+        },
+        {
+          "date": "02-Dec-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "712",
+          "debit_amt": 0,
+          "credit_amt": 3593.75,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 65411 LP-P",
+          "type": ""
+        }
+      ],
+      "value": 20019.75
+    },
+    {
+      "ledger_name": "KGK DIAMONDS BV",
+      "opening_balance": 0,
+      "closing_balance": 477260.8,
+      "transactions": [
+        {
+          "date": "18-Sep-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "499",
+          "debit_amt": 0,
+          "credit_amt": 24804.89,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: KGEX-613/2425P IMP-P",
+          "type": ""
+        },
+        {
+          "date": "30-Sep-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "520",
+          "debit_amt": 0,
+          "credit_amt": 9451.86,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: KGEX-660/2425P IMP-P",
+          "type": ""
+        },
+        {
+          "date": "24-Oct-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "595",
+          "debit_amt": 0,
+          "credit_amt": 7801.71,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: KGEX-739/2425P IMP-P",
+          "type": ""
+        },
+        {
+          "date": "24-Oct-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "702",
+          "debit_amt": 0,
+          "credit_amt": 16739.78,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: KGEX/748/2024-25P IMP-P",
+          "type": ""
+        },
+        {
+          "date": "29-Oct-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "606",
+          "debit_amt": 0,
+          "credit_amt": 18263.5,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: KGEX-753/2425P IMP-P",
+          "type": ""
+        },
+        {
+          "date": "14-Nov-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "634",
+          "debit_amt": 0,
+          "credit_amt": 90040.97,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: KGEX-809/2425P IMP-P",
+          "type": ""
+        },
+        {
+          "date": "21-Nov-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "663",
+          "debit_amt": 0,
+          "credit_amt": 45314.68,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: KGEX-844/2425P IMP-P",
+          "type": ""
+        },
+        {
+          "date": "20-Dec-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "726",
+          "debit_amt": 0,
+          "credit_amt": 143422.91,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: KGEK-975/2425P IMP-P",
+          "type": ""
+        },
+        {
+          "date": "02-Jan-2025",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "737",
+          "debit_amt": 0,
+          "credit_amt": 121420.5,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: KGEX-1008/2425P IMP-P",
+          "type": ""
+        }
+      ],
+      "value": 477260.8
+    },
+    {
+      "ledger_name": "Kiraku Hongkong Limited",
+      "opening_balance": 0,
+      "closing_balance": 0,
+      "transactions": [
+        {
+          "date": "03-Apr-2024",
+          "party_name": "TO    BOC USD C/A (012-791-2-002379-0)",
+          "vno": "2",
+          "debit_amt": 199650,
+          "credit_amt": 0,
+          "cheque_no": "",
+          "narration": "  Payment. $ 199650 @ 7.8 Ag. Inv. 027 CB-P",
+          "type": ""
+        },
+        {
+          "date": "04-Apr-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "54",
+          "debit_amt": 0,
+          "credit_amt": 199650,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 027 LP-P",
+          "type": ""
+        }
+      ],
+      "value": 0
+    },
+    {
+      "ledger_name": "KRISHA DIAM LIMITED",
+      "opening_balance": 0,
+      "closing_balance": 1972.9,
+      "transactions": [
+        {
+          "date": "31-Dec-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "817",
+          "debit_amt": 0,
+          "credit_amt": 818.8,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 2024-25/1231001 LP-P",
+          "type": ""
+        },
+        {
+          "date": "20-Jan-2025",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "812",
+          "debit_amt": 0,
+          "credit_amt": 1154.1,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: KDL-001 LP-P",
+          "type": ""
+        }
+      ],
+      "value": 1972.9
+    },
+    {
+      "ledger_name": "Limor Brothers Ltd",
+      "opening_balance": 0,
+      "closing_balance": 84500.2,
+      "transactions": [
+        {
+          "date": "26-Jun-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "186",
+          "debit_amt": 0,
+          "credit_amt": 19635.25,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: 25518 IMP-P",
+          "type": ""
+        },
+        {
+          "date": "13-Feb-2025",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "896",
+          "debit_amt": 0,
+          "credit_amt": 64864.95,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: 26949 IMP-P",
+          "type": ""
+        }
+      ],
+      "value": 84500.2
+    },
+    {
+      "ledger_name": "LXV INTERNATIONAL LIMITED",
+      "opening_balance": 0,
+      "closing_balance": 71680.86,
+      "transactions": [
+        {
+          "date": "04-Sep-2024",
+          "party_name": "TO    Local Sale (Polish Diamond)",
+          "vno": "2068",
+          "debit_amt": 393.26,
+          "credit_amt": 0,
+          "cheque_no": "",
+          "narration": "  Local Sales against Bill No: 11686 LS-S",
+          "type": ""
+        },
+        {
+          "date": "26-Nov-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "668",
+          "debit_amt": 0,
+          "credit_amt": 64733.12,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: LX-2024/1126-05 LP-P",
+          "type": ""
+        },
+        {
+          "date": "20-Jan-2025",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "803",
+          "debit_amt": 0,
+          "credit_amt": 7341,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: LX-2025/0120-05 LP-P",
+          "type": ""
+        }
+      ],
+      "value": 71680.86
+    },
+    {
+      "ledger_name": "MALCA AMIT",
+      "opening_balance": 11960.86,
+      "closing_balance": 11960.86,
+      "transactions": [],
+      "value": 11960.86
+    },
+    {
+      "ledger_name": "Marquise Diamond Limited",
+      "opening_balance": 0,
+      "closing_balance": 444,
+      "transactions": [
+        {
+          "date": "03-Apr-2024",
+          "party_name": "TO    Local Sale (Polish Diamond)",
+          "vno": "43",
+          "debit_amt": 5563.54,
+          "credit_amt": 0,
+          "cheque_no": "",
+          "narration": "  Local Sales against Bill No: 9816 LS-S",
+          "type": ""
+        },
+        {
+          "date": "05-Apr-2024",
+          "party_name": "BY    BOC USD C/A (012-791-2-002379-0)",
+          "vno": "26",
+          "debit_amt": 0,
+          "credit_amt": 5564,
+          "cheque_no": "",
+          "narration": "  Receipt. $ 5564.00 @ 7.8 Ag. Inv. 9816 CB-R",
+          "type": ""
+        },
+        {
+          "date": "08-May-2024",
+          "party_name": "TO    Local Sale (Polish Diamond)",
+          "vno": "411",
+          "debit_amt": 3223.03,
+          "credit_amt": 0,
+          "cheque_no": "",
+          "narration": "  Local Sales against Bill No: 10188 LS-S",
+          "type": ""
+        },
+        {
+          "date": "08-May-2024",
+          "party_name": "BY    ADVERTISING EXPENSES",
+          "vno": "243",
+          "debit_amt": 0,
+          "credit_amt": 0.03,
+          "cheque_no": "",
+          "narration": " -- Receipt. $ 3223 @ 7.8 Ag. Inv. 10188 CB-R",
+          "type": ""
+        },
+        {
+          "date": "08-May-2024",
+          "party_name": "BY    BOC USD C/A (012-791-2-002379-0)",
+          "vno": "243",
+          "debit_amt": 0,
+          "credit_amt": 3223,
+          "cheque_no": "",
+          "narration": "  Receipt. $ 3223 @ 7.8 Ag. Inv. 10188 CB-R",
+          "type": ""
+        },
+        {
+          "date": "22-May-2024",
+          "party_name": "TO    Local Sale (Polish Diamond)",
+          "vno": "542",
+          "debit_amt": 2584.58,
+          "credit_amt": 0,
+          "cheque_no": "",
+          "narration": "  Local Sales against Bill No: 10310 LS-S",
+          "type": ""
+        },
+        {
+          "date": "23-May-2024",
+          "party_name": "BY    BOC USD C/A (012-791-2-002379-0)",
+          "vno": "330",
+          "debit_amt": 0,
+          "credit_amt": 2585,
+          "cheque_no": "",
+          "narration": "  Receipt. $ 2585 @ 7.8 Ag. Inv. 10310 CB-R",
+          "type": ""
+        },
+        {
+          "date": "02-Jul-2024",
+          "party_name": "BY    BOC USD C/A (012-791-2-002379-0)",
+          "vno": "781",
+          "debit_amt": 0,
+          "credit_amt": 7110,
+          "cheque_no": "",
+          "narration": "  Receipt. $ 7110 @ 7.8 Ag. Inv. 10745 CB-R",
+          "type": ""
+        },
+        {
+          "date": "02-Jul-2024",
+          "party_name": "TO    Local Sale (Polish Diamond)",
+          "vno": "988",
+          "debit_amt": 7109.69,
+          "credit_amt": 0,
+          "cheque_no": "",
+          "narration": "  Local Sales against Bill No: 10745 LS-S",
+          "type": ""
+        },
+        {
+          "date": "16-Jul-2024",
+          "party_name": "BY    BOC USD C/A (012-791-2-002379-0)",
+          "vno": "1117",
+          "debit_amt": 0,
+          "credit_amt": 3633,
+          "cheque_no": "",
+          "narration": "  Receipt. $ 3633 @ 7.8 Ag. Inv. 10956 CB-R",
+          "type": ""
+        },
+        {
+          "date": "16-Jul-2024",
+          "party_name": "TO    Local Sale (Polish Diamond)",
+          "vno": "1213",
+          "debit_amt": 3632.74,
+          "credit_amt": 0,
+          "cheque_no": "",
+          "narration": "  Local Sales against Bill No: 10956 LS-S",
+          "type": ""
+        },
+        {
+          "date": "06-Nov-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "611",
+          "debit_amt": 0,
+          "credit_amt": 444,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 12402 LP-P",
+          "type": ""
+        }
+      ],
+      "value": 444
+    },
+    {
+      "ledger_name": "Meena Diam (HK) Ltd.",
+      "opening_balance": 8587.6,
+      "closing_balance": 12707.6,
+      "transactions": [
+        {
+          "date": "23-Oct-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "575",
+          "debit_amt": 0,
+          "credit_amt": 4120,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: SF-231024 LP-P",
+          "type": ""
+        }
+      ],
+      "value": 12707.6
+    },
+    {
+      "ledger_name": "MG CREATION LTD",
+      "opening_balance": 0,
+      "closing_balance": 51642.92,
+      "transactions": [
+        {
+          "date": "30-Oct-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "604",
+          "debit_amt": 0,
+          "credit_amt": 12039.49,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 431 LP-P",
+          "type": ""
+        },
+        {
+          "date": "15-Nov-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "638",
+          "debit_amt": 0,
+          "credit_amt": 19769.56,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 454 LP-P",
+          "type": ""
+        },
+        {
+          "date": "09-Dec-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "705",
+          "debit_amt": 0,
+          "credit_amt": 3328.77,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 488 LP-P",
+          "type": ""
+        },
+        {
+          "date": "12-Feb-2025",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "873",
+          "debit_amt": 0,
+          "credit_amt": 16505.1,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 561 LP-P",
+          "type": ""
+        }
+      ],
+      "value": 51642.92
+    },
+    {
+      "ledger_name": "MILI STAR CO. LTD.",
+      "opening_balance": 0,
+      "closing_balance": 36400.91,
+      "transactions": [
+        {
+          "date": "22-Oct-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "570",
+          "debit_amt": 0,
+          "credit_amt": 36400.91,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: 44/2024 IMP-P",
+          "type": ""
+        }
+      ],
+      "value": 36400.91
+    },
+    {
+      "ledger_name": "Nivoda HK Ltd.",
+      "opening_balance": 0,
+      "closing_balance": 13549.57,
+      "transactions": [
+        {
+          "date": "30-Apr-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "88",
+          "debit_amt": 0,
+          "credit_amt": 2900.07,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: INV-9719 LP-P",
+          "type": ""
+        },
+        {
+          "date": "10-Jul-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "279",
+          "debit_amt": 0,
+          "credit_amt": 2511.07,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: DN-HK-0028 LP-P",
+          "type": ""
+        },
+        {
+          "date": "24-Jul-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "445",
+          "debit_amt": 0,
+          "credit_amt": 2536.88,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: DN-HK-0035 LP-P",
+          "type": ""
+        },
+        {
+          "date": "03-Sep-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "426",
+          "debit_amt": 0,
+          "credit_amt": 301.51,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: DN-HK-0054 LP-P",
+          "type": ""
+        },
+        {
+          "date": "16-Sep-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "457",
+          "debit_amt": 0,
+          "credit_amt": 275.34,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: DN-HK-0062 LP-P",
+          "type": ""
+        },
+        {
+          "date": "16-Sep-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "458",
+          "debit_amt": 0,
+          "credit_amt": 296.59,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: DN-HK-0063 LP-P",
+          "type": ""
+        },
+        {
+          "date": "10-Feb-2025",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "871",
+          "debit_amt": 0,
+          "credit_amt": 2499.59,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: DN-HK-0141 LP-P",
+          "type": ""
+        },
+        {
+          "date": "18-Feb-2025",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "899",
+          "debit_amt": 0,
+          "credit_amt": 2228.52,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: DN-HK-0150 LP-P",
+          "type": ""
+        }
+      ],
+      "value": 13549.57
+    },
+    {
+      "ledger_name": "NYRELLE JEWELRY LTD",
+      "opening_balance": 0,
+      "closing_balance": 12738.79,
+      "transactions": [
+        {
+          "date": "21-Nov-2024",
+          "party_name": "TO    Local Sale (Polish Diamond)",
+          "vno": "2799",
+          "debit_amt": 782.9,
+          "credit_amt": 0,
+          "cheque_no": "",
+          "narration": "  Local Sales against Bill No: 12347 LS-S",
+          "type": ""
+        },
+        {
+          "date": "23-Dec-2024",
+          "party_name": "TO    Local Sale (Polish Diamond)",
+          "vno": "3072",
+          "debit_amt": 12900.59,
+          "credit_amt": 0,
+          "cheque_no": "",
+          "narration": "  Local Sales against Bill No: 12629 LS-S",
+          "type": ""
+        },
+        {
+          "date": "31-Dec-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "733",
+          "debit_amt": 0,
+          "credit_amt": 944.7,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: NJ001 LP-P",
+          "type": ""
+        }
+      ],
+      "value": 12738.79
+    },
+    {
+      "ledger_name": "P.K IMPEX",
+      "opening_balance": 0,
+      "closing_balance": 258,
+      "transactions": [
+        {
+          "date": "30-Dec-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "818",
+          "debit_amt": 0,
+          "credit_amt": 258,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 0069 LP-P",
+          "type": ""
+        }
+      ],
+      "value": 258
+    },
+    {
+      "ledger_name": "P.K. Impex Ltd",
+      "opening_balance": 0,
+      "closing_balance": 132942.6,
+      "transactions": [
+        {
+          "date": "05-Jun-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "157",
+          "debit_amt": 0,
+          "credit_amt": 44158.4,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 4219 LP-P",
+          "type": ""
+        },
+        {
+          "date": "22-Jun-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "251",
+          "debit_amt": 0,
+          "credit_amt": 20559,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 00230 LP-P",
+          "type": ""
+        },
+        {
+          "date": "04-Jul-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "249",
+          "debit_amt": 0,
+          "credit_amt": 33158.5,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 3978 LP-P",
+          "type": ""
+        },
+        {
+          "date": "11-Jul-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "269",
+          "debit_amt": 0,
+          "credit_amt": 20146.7,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 4423 LP-P",
+          "type": ""
+        },
+        {
+          "date": "23-Jul-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "298",
+          "debit_amt": 0,
+          "credit_amt": 14920,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 3981 LP-P",
+          "type": ""
+        }
+      ],
+      "value": 132942.6
+    },
+    {
+      "ledger_name": "PRINCESS DIAM (HK) LTD.",
+      "opening_balance": 0,
+      "closing_balance": 15481.37,
+      "transactions": [
+        {
+          "date": "02-Nov-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "607",
+          "debit_amt": 0,
+          "credit_amt": 3425.4,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 5276 LP-P",
+          "type": ""
+        },
+        {
+          "date": "05-Nov-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "610",
+          "debit_amt": 0,
+          "credit_amt": 438.9,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 5279 LP-P",
+          "type": ""
+        },
+        {
+          "date": "28-Nov-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "710",
+          "debit_amt": 0,
+          "credit_amt": 11400.87,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 6480 LP-P",
+          "type": ""
+        },
+        {
+          "date": "21-Jan-2025",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "814",
+          "debit_amt": 0,
+          "credit_amt": 216.2,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 6500 LP-P",
+          "type": ""
+        }
+      ],
+      "value": 15481.37
+    },
+    {
+      "ledger_name": "Promising Gems (HK) Co Ltd.",
+      "opening_balance": 0,
+      "closing_balance": 150431.18,
+      "transactions": [
+        {
+          "date": "17-May-2024",
+          "party_name": "TO    BOC USD C/A (012-791-2-002379-0)",
+          "vno": "10",
+          "debit_amt": 97450,
+          "credit_amt": 0,
+          "cheque_no": "",
+          "narration": "  Payment. $ 97450 @ 7.8 Ag. Inv. 2024052405 CB-P",
+          "type": ""
+        },
+        {
+          "date": "20-May-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "121",
+          "debit_amt": 0,
+          "credit_amt": 97450,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: 2024052405 IMP-P",
+          "type": ""
+        },
+        {
+          "date": "16-Jul-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "385",
+          "debit_amt": 0,
+          "credit_amt": 150009,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 20240716109 LP-P",
+          "type": ""
+        },
+        {
+          "date": "28-Oct-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "593",
+          "debit_amt": 0,
+          "credit_amt": 422.18,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 7618/SEE/30 LP-P",
+          "type": ""
+        }
+      ],
+      "value": 150431.18
+    },
+    {
+      "ledger_name": "R2Net Inc",
+      "opening_balance": 0,
+      "closing_balance": 3174.29,
+      "transactions": [
+        {
+          "date": "02-Apr-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "312",
+          "debit_amt": 0,
+          "credit_amt": 2340.47,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: CV05442 IMP-P",
+          "type": ""
+        },
+        {
+          "date": "03-May-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "311",
+          "debit_amt": 0,
+          "credit_amt": 833.82,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: CV05608 IMP-P",
+          "type": ""
+        }
+      ],
+      "value": 3174.29
+    },
+    {
+      "ledger_name": "S M DIAM",
+      "opening_balance": 0,
+      "closing_balance": 792.15,
+      "transactions": [
+        {
+          "date": "25-Sep-2024",
+          "party_name": "TO    Local Sale (Polish Diamond)",
+          "vno": "2361",
+          "debit_amt": 11812.8,
+          "credit_amt": 0,
+          "cheque_no": "",
+          "narration": "  Local Sales against Bill No: 11865 LS-S",
+          "type": ""
+        },
+        {
+          "date": "25-Sep-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "509",
+          "debit_amt": 0,
+          "credit_amt": 1280.97,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 076A/24 LP-P",
+          "type": ""
+        },
+        {
+          "date": "27-Sep-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "513",
+          "debit_amt": 0,
+          "credit_amt": 6266.96,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 078A/24 LP-P",
+          "type": ""
+        },
+        {
+          "date": "29-Oct-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "597",
+          "debit_amt": 0,
+          "credit_amt": 3472.72,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 83A/24 LP-P",
+          "type": ""
+        }
+      ],
+      "value": 792.15
+    },
+    {
+      "ledger_name": "Sahajanand Diam Ltd.",
+      "opening_balance": 0,
+      "closing_balance": 1467.71,
+      "transactions": [
+        {
+          "date": "25-Sep-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "508",
+          "debit_amt": 0,
+          "credit_amt": 1467.71,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: SH-25092024 LP-P",
+          "type": ""
+        }
+      ],
+      "value": 1467.71
+    },
+    {
+      "ledger_name": "Seyaa Diamonds Ltd.",
+      "opening_balance": 0,
+      "closing_balance": 864.99,
+      "transactions": [
+        {
+          "date": "24-Sep-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "510",
+          "debit_amt": 0,
+          "credit_amt": 864.99,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 2654 LP-P",
+          "type": ""
+        }
+      ],
+      "value": 864.99
+    },
+    {
+      "ledger_name": "SHAIVI TRADING CO",
+      "opening_balance": 0,
+      "closing_balance": 5200.01,
+      "transactions": [
+        {
+          "date": "15-Jan-2025",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "797",
+          "debit_amt": 0,
+          "credit_amt": 5200.01,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 001A/25 LP-P",
+          "type": ""
+        }
+      ],
+      "value": 5200.01
+    },
+    {
+      "ledger_name": "Shivam Jewels Ltd.",
+      "opening_balance": 226090.43,
+      "closing_balance": 226090.43,
+      "transactions": [],
+      "value": 226090.43
+    },
+    {
+      "ledger_name": "Shree Hari (HK) Ltd.",
+      "opening_balance": 0,
+      "closing_balance": 898,
+      "transactions": [
+        {
+          "date": "23-Apr-2024",
+          "party_name": "TO    Local Sale (Polish Diamond)",
+          "vno": "234",
+          "debit_amt": 1892.65,
+          "credit_amt": 0,
+          "cheque_no": "",
+          "narration": "  Local Sales against Bill No: 10025 LS-S",
+          "type": ""
+        },
+        {
+          "date": "23-Apr-2024",
+          "party_name": "BY    BOC USD C/A (012-791-2-002379-0)",
+          "vno": "150",
+          "debit_amt": 0,
+          "credit_amt": 1892.65,
+          "cheque_no": "",
+          "narration": "  Receipt. $ 1892.65 @ 7.8 Ag. Inv. 10025 CB-R",
+          "type": ""
+        },
+        {
+          "date": "24-Oct-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "592",
+          "debit_amt": 0,
+          "credit_amt": 898,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 983 LP-P",
+          "type": ""
+        }
+      ],
+      "value": 898
+    },
+    {
+      "ledger_name": "STONE CRAFT LTD",
+      "opening_balance": 0,
+      "closing_balance": 17483.66,
+      "transactions": [
+        {
+          "date": "07-Aug-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "339",
+          "debit_amt": 0,
+          "credit_amt": 4428.46,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 2074 LP-P",
+          "type": ""
+        },
+        {
+          "date": "08-Aug-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "341",
+          "debit_amt": 0,
+          "credit_amt": 10382.2,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 2079 LP-P",
+          "type": ""
+        },
+        {
+          "date": "12-Aug-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "375",
+          "debit_amt": 0,
+          "credit_amt": 2673,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 2082 LP-P",
+          "type": ""
+        }
+      ],
+      "value": 17483.66
+    },
+    {
+      "ledger_name": "Superior Exports (HK) Ltd",
+      "opening_balance": 0,
+      "closing_balance": 1141.25,
+      "transactions": [
+        {
+          "date": "05-Apr-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "55",
+          "debit_amt": 0,
+          "credit_amt": 431.25,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 1360 LP-P",
+          "type": ""
+        },
+        {
+          "date": "14-Jun-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "183",
+          "debit_amt": 0,
+          "credit_amt": 710,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 1453 LP-P",
+          "type": ""
+        }
+      ],
+      "value": 1141.25
+    },
+    {
+      "ledger_name": "SURBHI DIAM LTD.",
+      "opening_balance": 0,
+      "closing_balance": 5953.5,
+      "transactions": [
+        {
+          "date": "13-Aug-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "366",
+          "debit_amt": 0,
+          "credit_amt": 5953.5,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 5026 LP-P",
+          "type": ""
+        }
+      ],
+      "value": 5953.5
+    },
+    {
+      "ledger_name": "Twinklediam Hong Kong Ltd.",
+      "opening_balance": 0,
+      "closing_balance": 501269.2,
+      "transactions": [
+        {
+          "date": "29-Aug-2024",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "425",
+          "debit_amt": 0,
+          "credit_amt": 86309.12,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: PL/23820/2024 LP-P",
+          "type": ""
+        },
+        {
+          "date": "04-Oct-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "537",
+          "debit_amt": 0,
+          "credit_amt": 36852.63,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: PL/24006/2024 LP-P",
+          "type": ""
+        },
+        {
+          "date": "10-Oct-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "536",
+          "debit_amt": 0,
+          "credit_amt": 11677.27,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: PL/24025/2024 LP-P",
+          "type": ""
+        },
+        {
+          "date": "18-Oct-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "566",
+          "debit_amt": 0,
+          "credit_amt": 17687.24,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: PL/24075/2024 LP-P",
+          "type": ""
+        },
+        {
+          "date": "24-Oct-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "576",
+          "debit_amt": 0,
+          "credit_amt": 22828.37,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: PL/24111/2024 LP-P",
+          "type": ""
+        },
+        {
+          "date": "09-Nov-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "636",
+          "debit_amt": 0,
+          "credit_amt": 68404.43,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: PL/24153/2024-1 LP-P",
+          "type": ""
+        },
+        {
+          "date": "09-Nov-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "637",
+          "debit_amt": 0,
+          "credit_amt": 5671.45,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: PL/24153/2024-2 LP-P",
+          "type": ""
+        },
+        {
+          "date": "14-Nov-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "639",
+          "debit_amt": 0,
+          "credit_amt": 20897.72,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: PL/24184/2024 LP-P",
+          "type": ""
+        },
+        {
+          "date": "26-Nov-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "670",
+          "debit_amt": 0,
+          "credit_amt": 48377.47,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: PL/24248/2024 LP-P",
+          "type": ""
+        },
+        {
+          "date": "30-Nov-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "682",
+          "debit_amt": 0,
+          "credit_amt": 48247.05,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: PL/24276/2024 LP-P",
+          "type": ""
+        },
+        {
+          "date": "10-Dec-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "796",
+          "debit_amt": 0,
+          "credit_amt": 68774.06,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: PL/24329/2024 LP-P",
+          "type": ""
+        },
+        {
+          "date": "31-Dec-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "788",
+          "debit_amt": 0,
+          "credit_amt": 1429.94,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: PL/24407/2024 IMP-P",
+          "type": ""
+        },
+        {
+          "date": "31-Dec-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "789",
+          "debit_amt": 0,
+          "credit_amt": 2884.56,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: PL/24407-2/2024 IMP-P",
+          "type": ""
+        },
+        {
+          "date": "09-Jan-2025",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "790",
+          "debit_amt": 0,
+          "credit_amt": 36889.41,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: PL24447/2025 IMP-P",
+          "type": ""
+        },
+        {
+          "date": "14-Jan-2025",
+          "party_name": "BY    Import Purchase(Polish Diamond)",
+          "vno": "799",
+          "debit_amt": 0,
+          "credit_amt": 4383.4,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: PL/24468/2025 LP-P",
+          "type": ""
+        },
+        {
+          "date": "14-Jan-2025",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "795",
+          "debit_amt": 0,
+          "credit_amt": 4383.4,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: PL/24468/24-25 IMP-P",
+          "type": ""
+        },
+        {
+          "date": "19-Feb-2025",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "885",
+          "debit_amt": 0,
+          "credit_amt": 15571.68,
+          "cheque_no": "",
+          "narration": "  Import against Bill No: PL/24623/2025 IMP-P",
+          "type": ""
+        }
+      ],
+      "value": 501269.2
+    },
+    {
+      "ledger_name": "VIRAT DIAMONDS LTD",
+      "opening_balance": 0,
+      "closing_balance": 8517,
+      "transactions": [
+        {
+          "date": "06-Feb-2025",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "837",
+          "debit_amt": 0,
+          "credit_amt": 8517,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 2859 LP-P",
+          "type": ""
+        }
+      ],
+      "value": 8517
+    },
+    {
+      "ledger_name": "VITHANI DIAM (HK) LTD.",
+      "opening_balance": 0,
+      "closing_balance": 2405,
+      "transactions": [
+        {
+          "date": "21-Oct-2024",
+          "party_name": "BY    Local Purchase (Polish Diamond)",
+          "vno": "565",
+          "debit_amt": 0,
+          "credit_amt": 2405,
+          "cheque_no": "",
+          "narration": "  Local Purchase against Bill No: 10743 LP-P",
+          "type": ""
+        }
+      ],
+      "value": 2405
+    }
+  ]
+}
