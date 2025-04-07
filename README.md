@@ -4,9 +4,9 @@ This project presents a comprehensive **financial data visualization dashboard**
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
-### ▶️ Running the Project Locally
+### Running the Project Locally
 
 1. **Clone or Download** this repository to your local machine.
 2. Open the folder in **Visual Studio Code**.
@@ -14,18 +14,18 @@ This project presents a comprehensive **financial data visualization dashboard**
 4. Right-click on `index.html` and choose **"Open with Live Server"**.
 5. The dashboard will launch in your default browser.
 
-> ✅ Recommended Browsers:  
+> Recommended Browsers:  
 > - Google Chrome  
 > - Microsoft Edge  
 
 ---
 
-## 📁 Project Folder Structure
+## Project Folder Structure
 
 ```text
 project-root/
 │
-├── 📂 assets/                      # Material Dashboard theme files
+├── 📂 assets/                     # Material Dashboard theme files
 │   ├── css/                       # Core CSS styles
 │   ├── fonts/                     # Custom fonts used
 │   ├── img/                       # Static image assets
@@ -50,7 +50,7 @@ project-root/
 ```
 ---
 
-## 📊 D3 Visualization Components
+##  D3 Visualization Components
 
 | Chart Type         | Description |
 |--------------------|-------------|
@@ -64,24 +64,23 @@ project-root/
 
 ---
 
-## 🧩 Technologies Used
+##  Technologies Used
 
-- 📊 **D3.js v7** for all visualizations  
-- 🧱 **Material Dashboard 3 (HTML Edition)** for layout and styling  
-- 🧭 **HTML + CSS + JS (Vanilla)** – No framework dependencies  
-- 🌐 **Live Server** (VS Code) for development  
-- 📁 **JSON files** as static data source
+-  **D3.js v7** for all visualizations  
+-  **Material Dashboard 3 (HTML Edition)** for layout and styling  
+-  **HTML + CSS + JS (Vanilla)** – No framework dependencies  
+-  **Live Server** (VS Code) for development  
+-  **JSON files** as static data source
 
 ---
 
-## 📜 License & Attribution
+## License & Attribution
 
 - Theme License: [Material Dashboard 3](https://www.creative-tim.com/product/material-dashboard) by [Creative Tim](https://www.creative-tim.com/)
-- Visualization code: Open for educational and non-commercial use under the course **CSCI 6406 - Data Visualization**.
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 This dashboard was developed as a part of the **CSCI 6406: Data Visualization** course project at Dalhousie University.
 
