@@ -22,7 +22,6 @@ This project presents a comprehensive **financial data visualization dashboard**
 
 ## 📁 Project Folder Structure
 
-```text
 project-root/
 │
 ├── 📂 assets/                      # Material Dashboard theme files
