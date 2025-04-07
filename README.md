@@ -22,6 +22,7 @@ This project presents a comprehensive **financial data visualization dashboard**
 
 ## 📁 Project Folder Structure
 
+```text
 project-root/
 │
 ├── 📂 assets/                      # Material Dashboard theme files
@@ -46,7 +47,7 @@ project-root/
 ├── 📄 index.html                 # Main dashboard HTML integrating all charts
 ├── 📄 README.md                  # Project overview and setup instructions
 └── 📄 LICENSE.md                 # License file from Creative Tim for dashboard theme
-
+```
 ---
 
 ## 📊 D3 Visualization Components
