@@ -20,9 +20,34 @@ This project presents a comprehensive **financial data visualization dashboard**
 
 ---
 
-## 📁 Folder Structure
+## 📁 Project Folder Structure
 
-project-root/ │ ├── 📂 assets/ # Material Dashboard theme files │ ├── css/ # Material Dashboard core CSS │ ├── fonts/ # Custom fonts │ ├── img/ # Dashboard images │ ├── js/ # Theme JS scripts │ └── scss/ # Source SCSS for advanced customization │ ├── 📂 custom/ # All D3 visualization JavaScript files │ ├── bubblechart.js │ ├── dendrogram.js │ ├── drilldownTable.js │ ├── stackedArea.js │ ├── sunburst.js │ └── treemap.js │ ├── 📂 data/ # Static JSON data files for visualizations │ ├── creditors.json │ └── ledger_data.json │ ├── 📄 index.html # Main dashboard page with all charts embedded ├── 📄 README.md # This file (Project Overview & Setup) └── 📄 LICENSE.md # License for Material Dashboard 3 (Creative Tim)
+```text
+project-root/
+│
+├── 📂 assets/                      # Material Dashboard theme files
+│   ├── css/                       # Core CSS styles
+│   ├── fonts/                     # Custom fonts used
+│   ├── img/                       # Static image assets
+│   ├── js/                        # Theme JavaScript files
+│   └── scss/                      # SCSS source files for styling
+│
+├── 📂 custom/                     # All D3.js visualization JavaScript components
+│   ├── bubblechart.js
+│   ├── dendrogram.js
+│   ├── drilldownTable.js
+│   ├── stackedArea.js
+│   ├── sunburst.js
+│   └── treemap.js
+│
+├── 📂 data/                       # JSON data files powering the visualizations
+│   ├── creditors.json
+│   └── ledger_data.json
+│
+├── 📄 index.html                 # Main dashboard HTML integrating all charts
+├── 📄 README.md                  # Project overview and setup instructions
+└── 📄 LICENSE.md                 # License file from Creative Tim for dashboard theme
+
 ---
 
 ## 📊 D3 Visualization Components
@@ -58,7 +83,7 @@ project-root/ │ ├── 📂 assets/ # Material Dashboard theme files │ �
 
 ## 🙌 Acknowledgements
 
-This dashboard was developed as a part of the **CSCI 6406: Data Visualization** course project at [Your University Name Here].
+This dashboard was developed as a part of the **CSCI 6406: Data Visualization** course project at Dalhousie University.
 
 ---
 
